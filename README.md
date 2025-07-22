@@ -16,13 +16,6 @@ This project presents a detailed **state-wise analysis of COVID-19 cases in Indi
 
 ---
 
-## 📁 Data Source
-
-The analysis uses **state-wise COVID-19 data**, most likely sourced from:
-- [Ministry of Health and Family Welfare (MoHFW)](https://www.mohfw.gov.in/)
-- [covid19india.org](https://www.covid19india.org/) *(historical archive)*
-
----
 
 ## 📌 Features
 
